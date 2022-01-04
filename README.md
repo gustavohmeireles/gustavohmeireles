@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavohmeireles
 - 👀 I’m interested in Ruby on Rails
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning about Ruby on Rails, React, React Native and NodeJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gustavohmeireles@gmail.com
 
