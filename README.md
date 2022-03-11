@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavohmeireles
 - 👀 In this repository has an HTML examples
-- 🌱 I’m currently learning about HTML5 and CSS
+- 🌱 I’m currently learning about JavaScript and Ruby on Rails
 - 💞️ I’m looking to collaborate on JavaScript projects.
 - 📫 How to reach me gustavohmeireles@gmail.com
 
